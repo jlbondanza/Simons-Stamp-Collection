@@ -3,4 +3,4 @@ This is a New Project
 
 # About Project
 
-Lorem Ipsum...
+This project is about Simon's Stamp Collection App.
