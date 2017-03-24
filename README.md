@@ -1,6 +1,6 @@
 This is a New Project
 ---
 
-# About
+# About Project
 
 Lorem Ipsum...
